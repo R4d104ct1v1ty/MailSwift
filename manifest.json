@@ -1,0 +1,14 @@
+{
+    "name": "Mail it all",
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "description": "This extension enables you to send a mail to multiple people at once by automating the addressing process and also tells you when the recipient reads the mail",
+    "content_script": {
+        "matches": ["https://mail.google.com/mail/u/0/*"],
+        "js": ["content.js"]
+    },
+    "permissions": ["storage", "tabs"],
+    "background": {
+        "service_worker": "background.js"
+    }
+}
