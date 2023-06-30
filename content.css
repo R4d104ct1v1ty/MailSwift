@@ -1,0 +1,32 @@
+.bttn-class{
+    color: #fff;
+    background-color: #f44336;
+    cursor: pointer;
+    border: none;
+    padding: 8px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    border-radius: 12px;
+    width: 85px;
+    margin: 8px;
+}
+
+.added-form{
+    padding: 8px;
+    margin: 5px;
+    margin-left: 0px;
+    padding-left: 2px;
+}
+
+.clear-button{
+    margin-top: 3px;
+    background-color: #606C5D;
+    color: #fff;
+    border: none;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+.mm-horrule{
+    opacity: 50%;
+}
