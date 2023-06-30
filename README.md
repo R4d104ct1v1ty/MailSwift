@@ -1,2 +1,2 @@
 # Mail-merge-extension
-An extension which enables mass mailing and checking if the recipient has read the mail.
+Gmail Extension which enables mail merge and also notifies you when the recipient reads the mail.
